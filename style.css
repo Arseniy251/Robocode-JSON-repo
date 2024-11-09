@@ -1,0 +1,29 @@
+header {
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, auto);
+}
+
+button{
+    background-color: aqua;
+    font-size: 5rem;
+    font-style: bold;
+    margin: 1rem;
+    padding: 1rem;
+}
+button:hover{
+    cursor: pointer;
+}
+
+p{
+    font-size: 3rem;
+    font-style: italic;
+}
