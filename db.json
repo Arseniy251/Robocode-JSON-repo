@@ -13,6 +13,13 @@
             "sirname" : "Andreevich",
             "photo_url" : "https:/raw",
             "balance" : 1
+        },
+        {
+            "id": 2,
+            "name": "ARSeniy",
+            "surname": "User #2",
+            "photo_url": "https://picsum.photos/500",
+            "balance": 200
         }
     ]
 }
