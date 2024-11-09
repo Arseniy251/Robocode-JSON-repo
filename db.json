@@ -20,6 +20,13 @@
             "surname": "User #2",
             "photo_url": "https://picsum.photos/500",
             "balance": 200
+        },
+        {
+            "id": 3,
+            "name": "Andrei",
+            "surname": "Mishevich",
+            "photo_url": "https://imgur/...",
+            "balance": 1000
         }
     ]
 }
