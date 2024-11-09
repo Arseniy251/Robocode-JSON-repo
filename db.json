@@ -1,5 +1,11 @@
 {
 	"users": [
-        
+        {
+            "id" : 1,
+            "name" : "Misha",
+            "sirname" : "Andreevich",
+            "photo_url" : "https:/raw",
+            "balance" : 1
+        }
     ]
 }
