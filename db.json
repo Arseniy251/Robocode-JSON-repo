@@ -10,7 +10,7 @@
         {
             "id" : 1,
             "name" : "Misha",
-            "sirname" : "Andreevich",
+            "surname" : "Andreevich",
             "photo_url" : "https:/raw",
             "balance" : 1
         },
@@ -34,6 +34,13 @@
             "surname": "User #3",
             "photo_url": "https://picsum.photos/500",
             "balance": 300
+        },
+        {
+          "id": 5,
+          "name": "Sasha",
+          "surname": "Aleksandrovich",
+          "photo_url": "https://cloud.gogle/...",
+          "balance": 10000
         }
     ]
 }
