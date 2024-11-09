@@ -1,46 +1,53 @@
 {
 	"users": [
+		{
+			"id": 0,
+			"name": "ARSeniy",
+			"surname": "User #1",
+			"photo_url": "https://picsum.photos/500",
+			"balance": 100
+		},
+		{
+			"id": 1,
+			"name": "Misha",
+			"surname": "Andreevich",
+			"photo_url": "https:/raw",
+			"balance": 1
+		},
+		{
+			"id": 2,
+			"name": "ARSeniy",
+			"surname": "User #2",
+			"photo_url": "https://picsum.photos/500",
+			"balance": 200
+		},
+		{
+			"id": 3,
+			"name": "Andrei",
+			"surname": "Mishevich",
+			"photo_url": "https://imgur/...",
+			"balance": 1000
+		},
+		{
+			"id": 4,
+			"name": "ARSeniy",
+			"surname": "User #3",
+			"photo_url": "https://picsum.photos/500",
+			"balance": 300
+		},
+		{
+			"id": 5,
+			"name": "Sasha",
+			"surname": "Aleksandrovich",
+			"photo_url": "https://cloud.gogle/...",
+			"balance": 10000
+		},
         {
-            "id": 0,
-            "name": "ARSeniy",
-            "surname": "User #1",
-            "photo_url": "https://picsum.photos/500",
-            "balance": 100
-        },
-        {
-            "id" : 1,
-            "name" : "Misha",
-            "surname" : "Andreevich",
-            "photo_url" : "https:/raw",
-            "balance" : 1
-        },
-        {
-            "id": 2,
-            "name": "ARSeniy",
-            "surname": "User #2",
-            "photo_url": "https://picsum.photos/500",
-            "balance": 200
-        },
-        {
-            "id": 3,
-            "name": "Andrei",
-            "surname": "Mishevich",
-            "photo_url": "https://imgur/...",
-            "balance": 1000
-        },
-        {
-            "id": 4,
-            "name": "ARSeniy",
-            "surname": "User #3",
-            "photo_url": "https://picsum.photos/500",
-            "balance": 300
-        },
-        {
-          "id": 5,
-          "name": "Sasha",
-          "surname": "Aleksandrovich",
-          "photo_url": "https://cloud.gogle/...",
-          "balance": 10000
-        }
-    ]
+			"id": 6,
+			"name": "ARSeniy",
+			"surname": "User #4",
+			"photo_url": "https://picsum.photos/500",
+			"balance": 400
+		}
+	]
 }
