@@ -1,6 +1,13 @@
 {
 	"users": [
         {
+            "id": 0,
+            "name": "ARSeniy",
+            "surname": "User #1",
+            "photo_url": "https://picsum.photos/500",
+            "balance": 100
+        },
+        {
             "id" : 1,
             "name" : "Misha",
             "sirname" : "Andreevich",
