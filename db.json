@@ -27,6 +27,13 @@
             "surname": "Mishevich",
             "photo_url": "https://imgur/...",
             "balance": 1000
+        },
+        {
+            "id": 4,
+            "name": "ARSeniy",
+            "surname": "User #3",
+            "photo_url": "https://picsum.photos/500",
+            "balance": 300
         }
     ]
 }
